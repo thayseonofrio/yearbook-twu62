@@ -9,8 +9,16 @@ html {
 }
 
 h1 {
+  letter-spacing: -.08em;
+  font-weight: 900;
+  display: block;
+  margin: 25px 0;
+  text-transform: uppercase;
+  font-size: 55px;
+  margin-top: 12.5px;
   text-align: center;
   padding: 3rem;
+  line-height: 1em;
 }
 
 hr {
