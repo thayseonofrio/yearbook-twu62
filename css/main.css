@@ -103,11 +103,11 @@ textarea {
   width: 100%;
   text-align: center;
   text-transform: capitalize;
-  font-size: 18px;
-  font-weight: bold;
+  font-size: 14px;
   font-weight: normal !important;
+  font-style: italic;
+  color: #000000;
   top: 40%;
-  color: #ffffff;
   opacity: 0;
   filter: alpha(opacity=0);
   transform: translateY(-20px);
