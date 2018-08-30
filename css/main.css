@@ -57,10 +57,10 @@ textarea {
 .grid div {
   display: inline-block;
   *display: inline;
-  width: 33%;
+  width: 27%;
   vertical-align: middle;
   box-sizing: border-box;
-  margin: 0;
+  margin: 3%;
   padding: 0;
 }
 
@@ -147,7 +147,7 @@ textarea {
 
 @media (max-width: 992px) {
   .grid div {
-    width: 50%;
+    width: 43%;
   }
 }
 
